@@ -1,0 +1,6 @@
+/Users/kienroro2003/Documents/My_MacOS/DuyTan/CS402/Code/Practie/Practie/bin/Debug/Practie.exe
+/Users/kienroro2003/Documents/My_MacOS/DuyTan/CS402/Code/Practie/Practie/bin/Debug/Practie.pdb
+/Users/kienroro2003/Documents/My_MacOS/DuyTan/CS402/Code/Practie/Practie/obj/Debug/Practie.csproj.AssemblyReference.cache
+/Users/kienroro2003/Documents/My_MacOS/DuyTan/CS402/Code/Practie/Practie/obj/Debug/Practie.csproj.CoreCompileInputs.cache
+/Users/kienroro2003/Documents/My_MacOS/DuyTan/CS402/Code/Practie/Practie/obj/Debug/Practie.exe
+/Users/kienroro2003/Documents/My_MacOS/DuyTan/CS402/Code/Practie/Practie/obj/Debug/Practie.pdb

@@ -1,0 +1,6 @@
+/Users/kienroro2003/Documents/My_MacOS/DuyTan/CS402/Code/QLSinhVien/QLSinhVien/bin/Debug/QLSinhVien.exe
+/Users/kienroro2003/Documents/My_MacOS/DuyTan/CS402/Code/QLSinhVien/QLSinhVien/bin/Debug/QLSinhVien.pdb
+/Users/kienroro2003/Documents/My_MacOS/DuyTan/CS402/Code/QLSinhVien/QLSinhVien/obj/Debug/QLSinhVien.csproj.AssemblyReference.cache
+/Users/kienroro2003/Documents/My_MacOS/DuyTan/CS402/Code/QLSinhVien/QLSinhVien/obj/Debug/QLSinhVien.csproj.CoreCompileInputs.cache
+/Users/kienroro2003/Documents/My_MacOS/DuyTan/CS402/Code/QLSinhVien/QLSinhVien/obj/Debug/QLSinhVien.exe
+/Users/kienroro2003/Documents/My_MacOS/DuyTan/CS402/Code/QLSinhVien/QLSinhVien/obj/Debug/QLSinhVien.pdb
