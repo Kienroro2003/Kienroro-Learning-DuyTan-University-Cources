@@ -1,0 +1,77 @@
+﻿.HeadTitle {
+    font-size: xx-large;
+    font-weight: bold;
+    text-align: center;
+    color: Purple;
+    margin-bottom: 30px;
+}
+
+
+.CellSpace {
+    border-spacing: 1px;
+}
+
+
+.Tiêu_Đề_Chính {
+    color: White;
+    background-color: Purple;
+    font-size: 12pt;
+    font-weight: bold;
+    margin: 5px 0px 5px 0px;
+    height: 25px;
+}
+
+
+.Cột1 {
+    color: Gray;
+    font-style: italic;
+    text-align: right;
+    width: 30%;
+}
+
+
+.Cột2 {
+    width: 70%;
+    text-align: left;
+}
+
+
+.TextboxDài {
+    width: 99%;
+    text-align: left;
+}
+
+.TTBatBuoc {
+    background-color: Yellow;
+}
+
+
+.Table {
+    table-layout: auto;
+    border-style: solid;
+    border-color: Purple;
+    border-width: 1px;
+    border-collapse: collapse;
+    background-color: White;
+    width: 800px;
+}
+
+
+td {
+    vertical-align: middle;
+}
+
+input {
+    margin: 2px 0px 2px 2px;
+}
+
+    input.NgayThang {
+        text-align: center;
+        width: 80px;
+    }
+
+
+select {
+    text-align: center;
+    width: 100px;
+}
