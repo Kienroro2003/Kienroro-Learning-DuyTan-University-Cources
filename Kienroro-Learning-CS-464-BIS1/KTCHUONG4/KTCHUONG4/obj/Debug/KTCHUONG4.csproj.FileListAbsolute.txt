@@ -1,0 +1,14 @@
+D:\Kienroro\winforms\KTCHUONG4\KTCHUONG4\bin\Debug\KTCHUONG4.exe.config
+D:\Kienroro\winforms\KTCHUONG4\KTCHUONG4\bin\Debug\KTCHUONG4.exe
+D:\Kienroro\winforms\KTCHUONG4\KTCHUONG4\bin\Debug\KTCHUONG4.pdb
+D:\Kienroro\winforms\KTCHUONG4\KTCHUONG4\obj\Debug\KTCHUONG4.csproj.AssemblyReference.cache
+D:\Kienroro\winforms\KTCHUONG4\KTCHUONG4\obj\Debug\KTCHUONG4.frm_DangNhap.resources
+D:\Kienroro\winforms\KTCHUONG4\KTCHUONG4\obj\Debug\KTCHUONG4.Properties.Resources.resources
+D:\Kienroro\winforms\KTCHUONG4\KTCHUONG4\obj\Debug\KTCHUONG4.csproj.GenerateResource.cache
+D:\Kienroro\winforms\KTCHUONG4\KTCHUONG4\obj\Debug\KTCHUONG4.csproj.CoreCompileInputs.cache
+D:\Kienroro\winforms\KTCHUONG4\KTCHUONG4\obj\Debug\KTCHUONG4.exe
+D:\Kienroro\winforms\KTCHUONG4\KTCHUONG4\obj\Debug\KTCHUONG4.pdb
+D:\Kienroro\winforms\KTCHUONG4\KTCHUONG4\obj\Debug\KTCHUONG4.frm_BaiTap3.resources
+D:\Kienroro\winforms\KTCHUONG4\KTCHUONG4\obj\Debug\KTCHUONG4.frm_Main.resources
+D:\Kienroro\winforms\KTCHUONG4\KTCHUONG4\obj\Debug\KTCHUONG4.frm_BaiTap1.resources
+D:\Kienroro\winforms\KTCHUONG4\KTCHUONG4\obj\Debug\KTCHUONG4.frm_BaiTap2.resources
